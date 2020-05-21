@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cadastro-livros-react/precache-manifest.e40c64ded9921dad93b4ee385bbbc0b0.js"
+  "/cadastro-livros-react/precache-manifest.8672ea5efed27ef4c64756567ea66a22.js"
 );
 
 workbox.clientsClaim();
