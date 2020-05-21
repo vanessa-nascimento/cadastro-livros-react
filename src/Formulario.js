@@ -33,7 +33,7 @@ class Formulario extends Component {
         return (
             <form>
                 <div className="row m-10">
-                    <div className="input-field col s4">
+                    <div className="input-field col s12 m4">
                         <label htmlFor="nome">Nome</label>
                         <input
                             className="validate"
@@ -45,7 +45,7 @@ class Formulario extends Component {
                         />
                     </div>
 
-                    <div className="input-field col s4">
+                    <div className="input-field col s12 m4">
                         <label htmlFor="livro">Livro</label>
                         <input
                             className="validate"
@@ -57,7 +57,7 @@ class Formulario extends Component {
                         />
                     </div>
                     
-                    <div className="input-field col s4">
+                    <div className="input-field col s12 m4">
                         <label htmlFor="preco">Preço</label>
                         <input
                             className="validate"
